@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Mua rau",
+    "status": "in-progress",
+    "createdAt": "2024-12-08T04:23:46",
+    "updatedAt": "2024-12-08T04:25:09"
+  },
+  {
+    "id": 2,
+    "description": "Học javascript",
+    "status": "todo",
+    "createdAt": "2024-12-08T04:26:05",
+    "updatedAt": "2024-12-08T04:28:06"
+  },
+  {
+    "id": 3,
+    "description": "Rửa chén",
+    "status": "done",
+    "createdAt": "2024-12-08T04:34:49",
+    "updatedAt": "2024-12-08T04:35:18"
+  }
+]
